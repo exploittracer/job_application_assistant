@@ -1,0 +1,45 @@
+application:
+  name: "Job Application Assistant"
+
+  fit_threshold: 75
+
+  excellent_threshold: 90
+  strong_threshold: 80
+  good_threshold: 75
+
+llm:
+  model: "gpt-5.6-luna"
+
+  temperature: 0.2
+
+search:
+  locations:
+    - "Philippines"
+    - "Cebu"
+    - "Remote"
+
+  job_types:
+    - "Full-time"
+
+  keywords:
+    - "IT Support"
+    - "Technical Support"
+    - "Help Desk"
+    - "Service Desk"
+    - "System Administrator"
+    - "Systems Administrator"
+    - "IT Operations"
+    - "Technical Operations"
+    - "Application Support"
+    - "Data Analyst"
+    - "BI Analyst"
+    - "Cybersecurity Analyst"
+    - "Security Analyst"
+    - "Automation"
+    - "Python Developer"
+
+output:
+  directory: "output"
+
+database:
+  path: "data/jobs.db"

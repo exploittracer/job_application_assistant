@@ -1,0 +1,152 @@
+name: "Jun Rey Ansing"
+
+professional_summary: >
+  IT professional with almost 8 years of experience across IT support,
+  technical support, IT operations, training, troubleshooting, systems,
+  networking, automation, and data-related projects.
+
+experience:
+  years: 8
+
+  roles:
+    - title: "IT Support Staff"
+      approximate_years: 3
+      responsibilities:
+        - Technical support
+        - Hardware troubleshooting
+        - Software troubleshooting
+        - Network troubleshooting
+        - User support
+        - IT operations
+
+    - title: "IT & Training Manager"
+      approximate_years: 2
+      responsibilities:
+        - IT operations
+        - Technical support
+        - User training
+        - Documentation
+        - Systems management
+        - Process improvement
+
+    - title: "Multimedia Technician"
+      approximate_years: 5
+      responsibilities:
+        - Technical equipment support
+        - Audio/video systems
+        - Troubleshooting
+        - Event technology
+        - Technical operations
+
+technical_skills:
+
+  operating_systems:
+    - Windows
+    - Linux
+    - Linux Mint
+
+  productivity:
+    - Microsoft Excel
+    - Google Sheets
+    - Google Workspace
+
+  programming:
+    - Python
+    - Java
+    - C++
+    - JavaScript
+    - HTML
+    - CSS
+    - Google Apps Script
+
+  databases:
+    - SQL
+    - SQLite
+    - SQLAlchemy
+
+  web_development:
+    - Flask
+    - REST APIs
+    - Backend development
+
+  data:
+    - Excel
+    - SQL
+    - Python
+    - Power BI
+    - Tableau
+    - Looker
+    - Data visualization
+    - Data analysis
+
+  networking:
+    - Network troubleshooting
+    - TCP/IP fundamentals
+    - LAN troubleshooting
+    - Internet connectivity troubleshooting
+
+  systems:
+    - User account administration
+    - Google Workspace administration
+    - System troubleshooting
+    - Hardware troubleshooting
+    - Software troubleshooting
+
+  cybersecurity:
+    - MITRE ATT&CK
+    - OWASP WSTG
+    - NIST SP 800-115
+    - Vulnerability assessment fundamentals
+    - Security fundamentals
+
+automation:
+  - Python scripting
+  - Google Apps Script
+  - Workflow automation
+  - Spreadsheet automation
+  - API integration
+
+certifications:
+  - "Google Data Analytics Professional Certificate"
+
+projects:
+  - name: "Asset Tracking / Inventory System"
+    technologies:
+      - Python
+      - Flask
+      - SQLite
+      - SQLAlchemy
+
+  - name: "Student Records System"
+    technologies:
+      - Google Apps Script
+      - Google Sheets
+      - JavaScript
+
+  - name: "Internship Tracking System"
+    technologies:
+      - Google Sheets
+      - Google Apps Script
+      - Automation
+
+career_targets:
+  primary:
+    - IT Support
+    - Technical Support
+    - System Administrator
+    - IT Operations
+    - Technical Operations
+    - Application Support
+
+  secondary:
+    - Data Analyst
+    - BI Analyst
+    - Cybersecurity Analyst
+    - Automation Developer
+    - Application Security Analyst
+
+work_preferences:
+  - Remote
+  - Hybrid
+  - Cebu
+  - Philippines

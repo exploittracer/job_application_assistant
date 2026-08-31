@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Manually added
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+data/*.db
+
+output/*
+!output/.gitkeep
